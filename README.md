@@ -1,6 +1,5 @@
 👋 Hi, I’m @Asmae-Azzi
 👀 I’m interested in Data science
-🌱 I’m currently learning Business Informatics
 💞️ I’m working on projects related to data analysis and data science to enrich my portfolio
 
 <!---
