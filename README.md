@@ -11,3 +11,4 @@ I’m Asmae, an AI and data professional with practical experience in Natural La
 ![Plotly](https://img.shields.io/badge/-Plotly-FFFFFF?logo=plotly&logoColor=grey)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FFFFFF?logo=streamlit&logoColor=#F74B4C)
 ![Git](https://img.shields.io/badge/-Git-FFFFFF?logo=git&logoColor=#F05032)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF?logo=sql&logoColor=#F05032)
